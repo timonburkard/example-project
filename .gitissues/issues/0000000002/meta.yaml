@@ -1,8 +1,10 @@
 id: 2
 title: possibility to show the logo on the screen
 state: new
-type: ''
-labels: []
+type: feature
+labels:
+- driver
+- gui
 assignee: ''
 created: 2025-12-22T21:23:41Z
-updated: 2025-12-22T21:23:41Z
+updated: 2025-12-22T21:28:41Z
