@@ -1,0 +1,41 @@
+[    0.214532] lcd_drv: INFO  Initializing LCD controller (ILI9341)
+[    0.214781] lcd_drv: DEBUG Reset GPIO asserted
+[    0.224913] lcd_drv: DEBUG Reset GPIO deasserted
+[    0.225041] lcd_drv: DEBUG Waiting for LCD power-up (120 ms)
+[    0.345298] lcd_drv: INFO  SPI interface configured (mode=0, clk=24MHz)
+[    0.345622] lcd_drv: DEBUG Sending SWRESET command (0x01)
+[    0.496003] lcd_drv: DEBUG Sending SLPOUT command (0x11)
+[    0.616417] lcd_drv: DEBUG Sending COLMOD command (0x3A, 16bpp)
+[    0.616892] lcd_drv: DEBUG Sending MADCTL command (0x36, 0x48)
+[    0.617221] lcd_drv: DEBUG Setting column address (0..239)
+[    0.617604] lcd_drv: DEBUG Setting page address (0..319)
+[    0.618091] lcd_drv: INFO  LCD resolution set to 240x320
+[    0.618447] lcd_drv: DEBUG Gamma curve configured
+[    0.618912] lcd_drv: DEBUG Sending DISPON command (0x29)
+[    0.619331] lcd_drv: INFO  LCD panel enabled
+[    0.702184] lcd_drv: DEBUG Framebuffer allocated @0x8f3c0000 (153600 bytes)
+[    0.702623] lcd_drv: INFO  Backlight PWM initialized (channel=1)
+[    0.702891] lcd_drv: DEBUG Backlight set to 80%
+[    1.004512] lcd_drv: DEBUG VSync interrupt received
+[    1.021834] lcd_drv: DEBUG VSync interrupt received
+[    1.038992] lcd_drv: DEBUG VSync interrupt received
+[    1.056431] lcd_drv: DEBUG VSync interrupt received
+[    1.073809] lcd_drv: DEBUG VSync interrupt received
+[    1.091244] lcd_drv: WARN  SPI underrun detected during frame update
+[    1.091588] lcd_drv: DEBUG Retrying frame transfer
+[    1.108912] lcd_drv: DEBUG Frame transfer completed (153600 bytes)
+[    1.126355] lcd_drv: DEBUG VSync interrupt received
+[    1.143731] lcd_drv: DEBUG VSync interrupt received
+[    1.201482] lcd_drv: INFO  Display refresh stable (58.9 Hz)
+[    2.004911] lcd_drv: DEBUG Backlight set to 60%
+[    2.508324] lcd_drv: DEBUG Partial update requested (x=0,y=0,w=120,h=160)
+[    2.509012] lcd_drv: DEBUG Setting column address (0..119)
+[    2.509401] lcd_drv: DEBUG Setting page address (0..159)
+[    2.525883] lcd_drv: DEBUG Frame transfer completed (38400 bytes)
+[    3.004771] lcd_drv: INFO  Power management idle state entered
+[    5.118334] lcd_drv: DEBUG Touch event triggers display wakeup
+[    5.118762] lcd_drv: INFO  Exiting idle state
+[    5.119184] lcd_drv: DEBUG Backlight set to 80%
+[    5.136492] lcd_drv: DEBUG VSync interrupt received
+[    5.153844] lcd_drv: DEBUG VSync interrupt received
+[    5.171291] lcd_drv: INFO  LCD driver running normally
