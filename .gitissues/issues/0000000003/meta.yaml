@@ -2,7 +2,9 @@ id: 3
 title: segmentation fault
 state: new
 type: bug
-labels: []
+labels:
+- driver
+- memsafety
 assignee: ''
 created: 2025-12-22T21:29:33Z
-updated: 2025-12-22T21:35:24Z
+updated: 2025-12-22T21:35:45Z
