@@ -1,10 +1,10 @@
 id: 1
 title: bug in lcd driver
-state: new
+state: active
 type: bug
 labels:
 - driver
 - log
 assignee: t.burkard
 created: 2025-12-22T21:11:36Z
-updated: 2025-12-22T21:22:48Z
+updated: 2025-12-22T21:23:00Z
