@@ -1,10 +1,10 @@
 id: 3
 title: segmentation fault
-state: new
+state: active
 type: bug
 labels:
 - driver
 - memsafety
 assignee: j.doe
 created: 2025-12-22T21:29:33Z
-updated: 2025-12-22T21:36:11Z
+updated: 2025-12-22T21:36:19Z
