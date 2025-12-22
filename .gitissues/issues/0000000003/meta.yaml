@@ -3,8 +3,7 @@ title: segmentation fault
 state: active
 type: bug
 labels:
-- driver
 - memsafety
 assignee: j.doe
 created: 2025-12-22T21:29:33Z
-updated: 2025-12-22T21:36:19Z
+updated: 2025-12-22T21:54:00Z
