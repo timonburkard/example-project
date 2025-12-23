@@ -1,0 +1,11 @@
+id: 5
+title: show dancing unicorn while application is loading
+state: new
+type: feature
+labels:
+- ui
+assignee: r.federer
+priority: ''
+due_date: 2042-12-31
+created: 2025-12-23T21:14:45Z
+updated: 2025-12-23T21:14:45Z
