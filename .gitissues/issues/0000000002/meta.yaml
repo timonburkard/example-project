@@ -5,6 +5,7 @@ type: feature
 labels:
 - driver
 - gui
+reporter: ''
 assignee: ''
 priority: P2
 due_date: 2026-01-30

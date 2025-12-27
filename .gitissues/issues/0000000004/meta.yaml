@@ -3,6 +3,7 @@ title: check if update to latest ubunto makes sense
 state: new
 type: ''
 labels: []
+reporter: ''
 assignee: ''
 priority: P4
 due_date: ''
