@@ -5,6 +5,7 @@ type: bug
 labels:
 - driver
 - log
+reporter: ''
 assignee: t.burkard
 priority: P2
 due_date: ''

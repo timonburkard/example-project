@@ -4,6 +4,7 @@ state: new
 type: feature
 labels:
 - ui
+reporter: ''
 assignee: r.federer
 priority: ''
 due_date: 2042-12-31
